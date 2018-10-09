@@ -1,0 +1,2 @@
+# Bugety-app
+vanilla js
